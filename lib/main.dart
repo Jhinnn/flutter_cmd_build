@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
             Text(
-              'You have pushed the button this many',
+              'You have pushed the button',
             ),
           ],
         ),
